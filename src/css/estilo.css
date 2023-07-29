@@ -1,0 +1,94 @@
+main {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px 0 0 0;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+}
+
+.divum {
+    margin: 22px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #DBDBDB;
+    padding: 30px 40px;
+    gap: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.divum .logo_instagram{
+    margin: -9px 0 15px 0;
+}
+
+.divum input {
+   
+    font-size: 12px;
+    padding-left: 6px;
+    width: 268px;
+    height: 36px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+}
+
+.divum button {
+    width: 268px;
+    height: 32px;
+    background-color: #4CB4F8;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    font-weight: bold;
+}
+
+.ou {
+    font-size: 12px;
+    color: gray;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px 0 0 0;
+    gap: 25px;
+}
+
+#entrar {
+color: #3851A3;
+font-weight: 900;
+font-size: 14px;
+}
+
+#esqueceu{
+ color:   #3851A3;
+ font-size: 12px;
+ font-weight: bold;
+}
+
+.divdois {
+        margin: 20px 0 0 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid #DBDBDB;
+        padding: 10px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.obtenha{
+    text-align: center;
+    margin: 8px 0 0 0;
+}
+
+.icones {
+    display: flex;
+    justify-content: center;
+}
